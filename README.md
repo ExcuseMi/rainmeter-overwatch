@@ -1,6 +1,7 @@
 # rainmeter-overwatch
 
-All credit should go to creator and reddit poster who created this wallpaper. https://www.reddit.com/r/Overwatch/comments/6tcmx1/asked_my_wife_to_make_a_desktop_wallpaper_based/ by reddit user bettytwokills
+All credit should go to reddit user bettytwokills who created this wallpaper. and shared it on reddit: https://www.reddit.com/r/Overwatch/comments/6tcmx1/asked_my_wife_to_make_a_desktop_wallpaper_based/
+
 
 This rainmeter skin allows you to display your multimonitor setup as the screens seen in the Overwatch spawn rooms.
 - Without overwatch running
