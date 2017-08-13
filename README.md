@@ -1,4 +1,7 @@
 # rainmeter-overwatch
+
+This rainmeter skin allows you to display your multimonitor setup as the screens seen in the Overwatch spawn rooms.
+
 ## How to install
 
 - Install rainmaker
